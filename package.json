@@ -1,0 +1,22 @@
+{
+  "name": "kcd-scripts-prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "format": "kcd-scripts format"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schaab/kcd-scripts-prettier-config.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/schaab/kcd-scripts-prettier-config/issues"
+  },
+  "homepage": "https://github.com/schaab/kcd-scripts-prettier-config#readme",
+  "dependencies": {
+    "kcd-scripts": "^1.8.0"
+  }
+}
